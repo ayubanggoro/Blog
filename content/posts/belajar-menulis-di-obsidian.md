@@ -6,15 +6,6 @@ tags:
   - blogging
 draft: false
 ---
----
-title: Cara Mudah Membuat Blog Pribadi
-date: 2026-11-24
-tags:
-  - tutorial
-  - blogging
-draft: false
----
-
 Ini adalah paragraf pembuka artikel pertama saya. Menulis di Obsidian terasa sangat cepat dan bebas gangguan.
 
 ## Subjudul Pertama
