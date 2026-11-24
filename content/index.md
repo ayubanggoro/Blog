@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
+Halo! Selamat datang di ruang tulis digital saya. Di sini saya berbagi catatan, pemikiran, dan tutorial seputar teknologi dan riset.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Kenali saya lebih dekat di halaman [[about|Tentang Saya]], atau langsung baca tulisan perdana saya di [[artikel-pertama|Memulai Blog dengan Obsidian dan Quartz]].
