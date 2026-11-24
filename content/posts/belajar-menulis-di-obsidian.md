@@ -14,5 +14,9 @@ Anda bisa menggunakan tanda pagar dua kali (`##`) untuk membuat subjudul bagian.
 - Gunakan tanda strip untuk membuat poin daftar.
 - Gunakan **dua tanda bintang** untuk menebalkan huruf.
 
+## Mereka berkata
+- **menebalkan
+- **kata** apa yang *akan* 
+
 ## Subjudul Kedua
 Selamat mencoba menulis artikel berikutnya!

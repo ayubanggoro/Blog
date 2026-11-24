@@ -97,7 +97,7 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
       theme: Tokyo Night
       mode: both
